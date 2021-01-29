@@ -37,6 +37,6 @@
     "nib": "1.1.0",
     "stylus": "0.52.0",
     "uglify-js": "2.4.24",
-    "watchify": "3.3.0"
+    "watchify": "4.0.0"
   }
 }
